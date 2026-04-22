@@ -6,4 +6,3 @@
 ## 🛠️ Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,tailwind,java,figma,python)
-![snake gif](https://github.com/yosefinaagst/yosefinaagst/blob/output/github-contribution-grid-snake.svg)
