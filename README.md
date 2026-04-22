@@ -1,10 +1,7 @@
 ## Hi there, I'm TITIN👋
-_____________________________________________________________________________________________________________________
 
 🎓 I'm a student passionate about UI/UX, Web Development, and Research
 🚀 Love building meaningful and impactful projects
-
---
 
 ## 🛠️ Tech Stack
 💻 Languages  
