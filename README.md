@@ -4,6 +4,8 @@
 🚀 Love building meaningful and impactful projects
 
 ## 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,java,figma,git)
 💻 Languages  
 `JavaScript` `TypeScript` `Java`
 
