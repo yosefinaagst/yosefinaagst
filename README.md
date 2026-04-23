@@ -1,4 +1,4 @@
-### Hi there, I'm Using Github👋😉
+### Hi there, I'm using Github👋😉
 
 ## YOSEFINA AGUSTINE KARTINI OFONG
 
