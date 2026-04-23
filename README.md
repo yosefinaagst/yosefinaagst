@@ -1,4 +1,4 @@
-### Hi there, I'm Using Github👋
+### Hi there, I'm Using Github👋😉
 
 ## YOSEFINA AGUSTINE KARTINI OFONG
 
@@ -7,3 +7,4 @@ I am an Information Systems student with a strong interest in user experience de
 ## 🛠️ Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,tailwind,java,figma,python,typescript)
+![snake gif](https://github.com/yosefinaagst/yosefinaagst/blob/output/github-contribution-grid-snake.svg)
