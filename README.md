@@ -1,5 +1,5 @@
-## YOSEFINA AGUSTINE K.👋
-# Hi there, I'm Using Github👋
+## YOSEFINA AGUSTINE K.
+### Hi there, I'm Using Github👋
 
 🎓 I'm a student passionate about UI/UX, Web Development, and Research.<br>
 🚀 Love building fun, meaningful, and impactful projects.
