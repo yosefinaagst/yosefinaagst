@@ -1,6 +1,6 @@
 ### Hi there, I'm using Github👋😉
 
-## YOSEFINA AGUSTINE KARTINI OFONG
+## YOSEFINA AGUSTINE 
 
 I am an Information Systems student with a strong interest in user experience design, application development processes, user needs research, and web development for building digital businesses. Through these interests, I have completed some projects in UI/UX design and front-end web development, collaborating with various development teams.
 
