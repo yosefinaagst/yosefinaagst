@@ -9,6 +9,6 @@ I am an Information Systems student with a strong interest in user experience de
 - Focus Areas: Systems Analysis and Design, Web and Mobile Application Development, Business Process Modeling, Human-Computer Interaction.
 
 ## 🛠️Tech Stack
-![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,tailwind,java,figma,python,typescript,kotlin,adroidstudio)
+![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,tailwind,java,figma,python,typescript,kotlin,androidstudio)
 
 ![snake gif](https://github.com/yosefinaagst/yosefinaagst/blob/output/github-contribution-grid-snake.svg)
